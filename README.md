@@ -30,6 +30,7 @@ Install `custom_component` files automatically using [HACS](https://github.com/c
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
 #### Component Configuration:
+Add to your HomeAssistant install's `configuration.yaml` file:
 ```yaml
 # Example configuration.yaml entry
 circadian_lighting:
@@ -37,6 +38,7 @@ circadian_lighting:
 [_Advanced Configuration_](https://github.com/claytonjn/hass-circadian_lighting/wiki/Advanced-Configuration#component-configuration-variables)
 
 #### Switch Configuration:
+Add to your HomeAssistant install's `configuration.yaml` file:
 ```yaml
 # Example configuration.yaml entry
 switch:
